@@ -1,0 +1,1617 @@
+fileFormatVersion: 2
+guid: 59e15e792b02f6143beefd355be5fdb9
+timeCreated: 1518208909
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Angry Birds Star Wars - Birds_0
+    21300002: Mobile - Angry Birds Star Wars - Birds_1
+    21300004: Mobile - Angry Birds Star Wars - Birds_2
+    21300006: Mobile - Angry Birds Star Wars - Birds_3
+    21300008: Mobile - Angry Birds Star Wars - Birds_4
+    21300010: Mobile - Angry Birds Star Wars - Birds_5
+    21300012: Mobile - Angry Birds Star Wars - Birds_6
+    21300014: Mobile - Angry Birds Star Wars - Birds_7
+    21300016: Mobile - Angry Birds Star Wars - Birds_8
+    21300018: Mobile - Angry Birds Star Wars - Birds_9
+    21300020: Mobile - Angry Birds Star Wars - Birds_10
+    21300022: Mobile - Angry Birds Star Wars - Birds_11
+    21300024: Mobile - Angry Birds Star Wars - Birds_12
+    21300026: Mobile - Angry Birds Star Wars - Birds_13
+    21300028: Mobile - Angry Birds Star Wars - Birds_14
+    21300030: Mobile - Angry Birds Star Wars - Birds_15
+    21300032: Mobile - Angry Birds Star Wars - Birds_16
+    21300034: Mobile - Angry Birds Star Wars - Birds_17
+    21300036: Mobile - Angry Birds Star Wars - Birds_18
+    21300038: Mobile - Angry Birds Star Wars - Birds_19
+    21300040: Mobile - Angry Birds Star Wars - Birds_20
+    21300042: Mobile - Angry Birds Star Wars - Birds_21
+    21300044: Mobile - Angry Birds Star Wars - Birds_22
+    21300046: Mobile - Angry Birds Star Wars - Birds_23
+    21300048: Mobile - Angry Birds Star Wars - Birds_24
+    21300050: Mobile - Angry Birds Star Wars - Birds_25
+    21300052: Mobile - Angry Birds Star Wars - Birds_26
+    21300054: Mobile - Angry Birds Star Wars - Birds_27
+    21300056: Mobile - Angry Birds Star Wars - Birds_28
+    21300058: Mobile - Angry Birds Star Wars - Birds_29
+    21300060: Mobile - Angry Birds Star Wars - Birds_30
+    21300062: Mobile - Angry Birds Star Wars - Birds_31
+    21300064: Mobile - Angry Birds Star Wars - Birds_32
+    21300066: Mobile - Angry Birds Star Wars - Birds_33
+    21300068: Mobile - Angry Birds Star Wars - Birds_34
+    21300070: Mobile - Angry Birds Star Wars - Birds_35
+    21300072: Mobile - Angry Birds Star Wars - Birds_36
+    21300074: Mobile - Angry Birds Star Wars - Birds_37
+    21300076: Mobile - Angry Birds Star Wars - Birds_38
+    21300078: Mobile - Angry Birds Star Wars - Birds_39
+    21300080: Mobile - Angry Birds Star Wars - Birds_40
+    21300082: Mobile - Angry Birds Star Wars - Birds_41
+    21300084: Mobile - Angry Birds Star Wars - Birds_42
+    21300086: Mobile - Angry Birds Star Wars - Birds_43
+    21300088: Mobile - Angry Birds Star Wars - Birds_44
+    21300090: Mobile - Angry Birds Star Wars - Birds_45
+    21300092: Mobile - Angry Birds Star Wars - Birds_46
+    21300094: Mobile - Angry Birds Star Wars - Birds_47
+    21300096: Mobile - Angry Birds Star Wars - Birds_48
+    21300098: Mobile - Angry Birds Star Wars - Birds_49
+    21300100: Mobile - Angry Birds Star Wars - Birds_50
+    21300102: Mobile - Angry Birds Star Wars - Birds_51
+    21300104: Mobile - Angry Birds Star Wars - Birds_52
+    21300106: Mobile - Angry Birds Star Wars - Birds_53
+    21300108: Mobile - Angry Birds Star Wars - Birds_54
+    21300110: Mobile - Angry Birds Star Wars - Birds_55
+    21300112: Mobile - Angry Birds Star Wars - Birds_56
+    21300114: Mobile - Angry Birds Star Wars - Birds_57
+    21300116: Mobile - Angry Birds Star Wars - Birds_58
+    21300118: Mobile - Angry Birds Star Wars - Birds_59
+    21300120: Mobile - Angry Birds Star Wars - Birds_60
+    21300122: Mobile - Angry Birds Star Wars - Birds_61
+    21300124: Mobile - Angry Birds Star Wars - Birds_62
+    21300126: Mobile - Angry Birds Star Wars - Birds_63
+    21300128: Mobile - Angry Birds Star Wars - Birds_64
+    21300130: Mobile - Angry Birds Star Wars - Birds_65
+    21300132: Mobile - Angry Birds Star Wars - Birds_66
+    21300134: Mobile - Angry Birds Star Wars - Birds_67
+    21300136: Mobile - Angry Birds Star Wars - Birds_68
+    21300138: Mobile - Angry Birds Star Wars - Birds_69
+    21300140: Mobile - Angry Birds Star Wars - Birds_70
+    21300142: Mobile - Angry Birds Star Wars - Birds_71
+    21300144: Mobile - Angry Birds Star Wars - Birds_72
+    21300146: Mobile - Angry Birds Star Wars - Birds_73
+    21300148: Mobile - Angry Birds Star Wars - Birds_74
+    21300150: Mobile - Angry Birds Star Wars - Birds_75
+    21300152: Mobile - Angry Birds Star Wars - Birds_76
+    21300154: Mobile - Angry Birds Star Wars - Birds_77
+    21300156: Mobile - Angry Birds Star Wars - Birds_78
+    21300158: Mobile - Angry Birds Star Wars - Birds_79
+    21300160: Mobile - Angry Birds Star Wars - Birds_80
+    21300162: Mobile - Angry Birds Star Wars - Birds_81
+    21300164: Mobile - Angry Birds Star Wars - Birds_82
+    21300166: Mobile - Angry Birds Star Wars - Birds_83
+    21300168: Mobile - Angry Birds Star Wars - Birds_84
+    21300170: Mobile - Angry Birds Star Wars - Birds_85
+    21300172: Mobile - Angry Birds Star Wars - Birds_86
+    21300174: Mobile - Angry Birds Star Wars - Birds_87
+    21300176: Mobile - Angry Birds Star Wars - Birds_88
+    21300178: Mobile - Angry Birds Star Wars - Birds_89
+    21300180: Mobile - Angry Birds Star Wars - Birds_90
+    21300182: Mobile - Angry Birds Star Wars - Birds_91
+    21300184: Mobile - Angry Birds Star Wars - Birds_92
+    21300186: Mobile - Angry Birds Star Wars - Birds_93
+    21300188: Mobile - Angry Birds Star Wars - Birds_94
+    21300190: Mobile - Angry Birds Star Wars - Birds_95
+    21300192: Mobile - Angry Birds Star Wars - Birds_96
+    21300194: Mobile - Angry Birds Star Wars - Birds_97
+    21300196: Mobile - Angry Birds Star Wars - Birds_98
+    21300198: Mobile - Angry Birds Star Wars - Birds_99
+    21300200: Mobile - Angry Birds Star Wars - Birds_100
+    21300202: Mobile - Angry Birds Star Wars - Birds_101
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 810
+        width: 210
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 813
+        width: 211
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 811
+        width: 211
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 815
+        width: 209
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 833
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 880
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 813
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 821
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 210
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 682
+        width: 209
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 685
+        width: 206
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 686
+        width: 204
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_12
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 707
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 686
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 552
+        width: 210
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 565
+        width: 202
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 567
+        width: 199
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 570
+        width: 198
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 586
+        width: 129
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 426
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 459
+        width: 198
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 478
+        width: 148
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_22
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 484
+        width: 192
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 484
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_24
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 484
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_25
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 519
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 478
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 302
+        width: 209
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 353
+        width: 148
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 413
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 397
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 402
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_32
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 409
+        width: 193
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_33
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 417
+        width: 192
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 367
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 316
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 327
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 347
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 347
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_39
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 348
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_40
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 348
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 348
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_42
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 348
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 197
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 235
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 254
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 288
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 289
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_48
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 289
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 289
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_50
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 290
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_51
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 290
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_52
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 310
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 178
+        width: 207
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 155
+        width: 198
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 193
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_56
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 229
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_57
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 233
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 236
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_59
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 237
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_60
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 237
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_61
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 240
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 154
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 132
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_64
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 171
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_65
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 177
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_66
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 188
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_67
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 188
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_68
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 188
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_69
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 190
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 92
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 195
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_73
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 73
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_74
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 114
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_75
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 122
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_76
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 139
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_77
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 139
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_78
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 140
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_79
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 141
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_80
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_81
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 57
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_82
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 68
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_83
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 89
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_84
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 92
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_85
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 94
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_86
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 97
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_90
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_91
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 19
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_93
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 7
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_94
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 12
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_95
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 5
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_96
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 15
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_97
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 40
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_98
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 47
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_99
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 49
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_100
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 7
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Star Wars - Birds_101
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 4
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
